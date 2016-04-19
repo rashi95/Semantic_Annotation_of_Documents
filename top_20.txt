@@ -1,0 +1,15 @@
+M=549, V=7523, L=6, K=24
+perplexity : 1621.0912
+
+-- label 0 : common
+be it can data these have or system information has one not also approach used more been methods paper process into objects techniques models results applications at two number analysis 
+-- label 1 : Databases
+data database chapter information model databases system systems modeling multidimensional queries query design language object object-oriented web integration uml relational business rules management documents schema concepts transactions semantic integrity issues 
+-- label 2 : Artificial-Intelligence
+planning inference domains actions stochastic language agents effects plan shown non-deterministic reasoning logic introduce multi-agent robots strategies universal obdd-based logics believable dbns uncertainty nadl deterministic prolog equality theorem strong equal 
+-- label 3 : Information-Retreival
+retrieval documents adequate xml indexing end-users abstract subdocuments irs document thesaurus searching like interrogation significance texts libraries disperse canonical ambiguities solve written semi-automatic multilingual webour integrates updated dictionaries keyword-based leafs 
+-- label 4 : Computer-Vision
+3d method images surface algorithm image range model camera paper data shape object reconstruction motion points based results point surfaces registration proposed scene can video present models stereo modeling estimation 
+-- label 5 : Other
+design designers how interaction user mobile their technology interactive paper experience work research physical development through language was study web discuss its usability interface support technologies space what people understanding 
